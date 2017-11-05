@@ -1,0 +1,30 @@
+{
+  "name": "paljs",
+  "version": "0.0.1",
+  "description": "Framework to help build Palringo Bots using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielSaldana/PalJS.git"
+  },
+  "keywords": [
+    "Palringo",
+    "Bot",
+    "Node",
+    "NodeJS",
+    "JS",
+    "Javascript"
+  ],
+  "author": "Ariel Saldana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArielSaldana/PalJS/issues"
+  },
+  "homepage": "https://github.com/ArielSaldana/PalJS#readme",
+  "dependencies": {
+    "bindings": "^1.3.0"
+  }
+}
